@@ -15,6 +15,6 @@ menu:
     weight: 4
 
 ---
-Content files are files that are processed by your static site generator and output in a different format (usually `.html`).
+Content files are files that are processed by your static site generator and output in a different format (usually `index.html`).
 
 They are usually Markdown files (`.md`, `.markdown`) or HTML files (`.html`).
